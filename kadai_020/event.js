@@ -3,7 +3,7 @@
 
  const text = document.getElementById('text');
  
- window.addEventListener('click', () => {
+ btn.addEventListener('click', () => {
  
     text.textContent= 'ボタンをクリックしました';
    
